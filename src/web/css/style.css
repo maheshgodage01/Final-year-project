@@ -1,0 +1,65 @@
+html {
+    background-image: url(../images/wallpaper.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+#convForm {
+    /* height:50px; */
+    position:absolute;
+    /* left:10px; */
+    bottom:0px;
+    /* margin-left:5%; */
+}
+
+.chat_box {
+    margin-left:5%;
+    width: 23%;
+    
+}
+
+/* .gesture-rec {
+    position: fixed;
+    top: 5%;
+    right: 5%;
+    /* background-size: cover; */
+    /* box-shadow: 0 0 10px rgba(114, 126, 123, 0.4);
+    border-radius: 5px;
+    /* border: 3px solid #b2f555;
+} */
+
+#gesture-recognition {
+    float: right;
+    width:30%;
+}
+#voice_assistant {
+    margin-top:5%;
+    float:right;
+    width:30%;
+}
+
+#exit {
+    margin-top:10%;
+    float:right;
+    width:30%;
+}
+
+.btns {
+    position: fixed;
+    top: 5%;
+    right: 5%;
+    background-color: #43c3fe00;
+    color: rgb(255, 255, 255);
+    font-size: 100%;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid rgb(237, 243, 237);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btns:hover {
+    background-color: rgb(3, 12, 26);
+    color: white;
+}  
+
